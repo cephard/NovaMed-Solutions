@@ -34,26 +34,28 @@ A description of each table is as follows:
 - **Sales Fact Table`** - 
 - **Customer Dim** -
 - `Drug Lookup Dim** -
-- **Calendar Dim**, - 
-
----
-
+- **Calendar Dim**, -
+  
 ## Entity Relationship Diagram  
+
 ![Entity Relationship Diagram](https://github.com/cephard/NovaMed-Solutions/blob/main/Entity%20Reletion%20Diagram.png)
- Initial steps wqe conducted before commencing the analysis, this included gathering datasets from differrent online locations and transorming the data from `csv` formart into `powerqury for transformation`.
 
 ---
 
 ## Data Cleaning & Transformation  
 
-The data preparation process included the following key steps:  
+Before commencing the analysis, the following initial steps were conducted:  
+- 📥 **Gathering datasets** from different online locations.  
+- 🔄 **Transforming the data** from `CSV` format into `Power Query` for further transformation.  
 
+The data cleaning and transformation process included:  
 - 🗑️ **Removing duplicate IDs** and replacing errors with placeholder values or removing them to avoid outliers.  
-- 🔄 **Converting column types** into the correct data type, such as changing the `MM-DD-YYYY` format that caused errors into short date conversion by using `Locale`.  
+- 🔧 **Converting column types** into the correct data type, such as changing the `MM-DD-YYYY` format that caused errors into short date conversion by using `Locale`.  
 - 👥 **Grouping customer ages** from raw numeric values into age segments such as `Senior`, `Gen X`, `Millennials`, and `Gen Z`.  
 - 🔗 **Creating relationships** by establishing 1-to-many links between the dimension tables and the fact table.  
 - 📅 **Improving time intelligence** by using both month name and month number to ensure correct month categorisation on the X-axis for line charts.  
 
+---
 
 # Executive Summary
 
