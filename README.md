@@ -168,7 +168,7 @@ On average, February consistently records the lowest profit and revenue, experie
     </td>
     <td>
       <p>2023</p>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top5%20drugs.png" alt="Customer Analysis 2023" width="400">
+      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs%20map.png" alt="Customer Analysis 2023" width="400">
     </td>
   </tr>
   </tbody>
