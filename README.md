@@ -164,7 +164,7 @@ On average, February consistently records the lowest profit and revenue, experie
 
 ### Top 5 & Bottom 5 Drugs
 
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
 
 
 ### Customer Performance
@@ -176,14 +176,14 @@ On average, February consistently records the lowest profit and revenue, experie
   
 **Buyer Type** 74% of the buyers where users and a 26% where sellers. However in terms of profit Sellers attributed to 87% of theprofit at 30.67m of the total 34.87 profitm. 
 
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis" style="width:500px; display:block; margin:auto;"/>
 
 ### Customer Demographics
 **Customer segment**
 There are various customer segments in the ccustomer base for novamed solutions, such as customer type, Gender, Age, Location, and Customer type.
 
 ### Location
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
 - As displayed on the map, Dark Blu represents the highest, yellow as the mid and light blue as the lowest.
 1. Canada:-
    - has contributed to be the strongest customer base of 44.11% of the revenue from the reggion
@@ -209,8 +209,8 @@ Gender & Age
 - The male customers are the most customers at 46.72% of all the customers, with 36.84% being a preffered custome located majorly in Canada and Australia.
 - Majority of the female customers are frequent buyers with 36.58% of them, The are evely distributed in all locations but majorly inA ustralia, then canada and some in European countries like Germnery France and United kIngdom
 
- <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"/>
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"/>
+ <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
 
 
 # Strategic Recommendations for NovaMed Solutions  
