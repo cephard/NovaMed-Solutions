@@ -143,21 +143,21 @@ On average, February consistently records the lowest profit and revenue, experie
    <tr>
     <td>
       <p>2022</p>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202022.png" alt="Customer Analysis 2022" width="300">
+      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202022.png" alt="Customer Analysis 2022" width="400">
     </td>
     <td>
       <p>2023</p>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202023.png" alt="Customer Analysis 2023" width="300">
+      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202023.png" alt="Customer Analysis 2023" width="400">
     </td>
   </tr>
   <tr>
     <td>
       <p>2024</p>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202024.png" alt="Customer Analysis 2024" width="300">
+      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202024.png" alt="Customer Analysis 2024" width="400">
     </td>
     <td>
       <p>2025</p>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202025.png" alt="Customer Analysis 2025" width="300">
+      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202025.png" alt="Customer Analysis 2025" width="400">
     </td>
   </tr>
   </tbody>
