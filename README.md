@@ -1,5 +1,7 @@
 # NovaMed-Solutions
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Power Query](https://img.shields.io/badge/Tool-Power%20Query-brightgreen)
+![Power BI Service](https://img.shields.io/badge/Platform-Power%20BI%20Service-blue?logo=powerbi)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cephard/NovaMed-Solutions)
 
 ---
@@ -23,28 +25,51 @@ Insights and recommendations are provided on the following key areas:
 
 ---
 
-# Data Structure & Initial Checks
+# Data Structure & Initial Checks  
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+NovaMed-Solutions main database structure as seen below consists of four tables: `Sales Fact Table`, `Customer Dim`, `Drug Lookup Dim`, and `Calendar Dim`, with the fact table housing a total row count of **1,826 records**.  
 
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+A description of each table is as follows:  
 
-[Entity Relationship Diagram here]
+- **Sales Fact Table`** - 
+- **Customer Dim** -
+- `Drug Lookup Dim** -
+- **Calendar Dim**, -
+  
+## Entity Relationship Diagram  
+
+![Entity Relationship Diagram](https://github.com/cephard/NovaMed-Solutions/blob/main/Entity%20Reletion%20Diagram.png)
+
+---
+
+## Data Cleaning & Transformation  
+
+Before commencing the analysis, the following initial steps were conducted:  
+- 📥 **Gathering datasets** from different online locations.  
+- 🔄 **Transforming the data** from `CSV` format into `Power Query` for further transformation.  
+
+The data cleaning and transformation process included:  
+- 🗑️ **Removing duplicate IDs** and replacing errors with placeholder values or removing them to avoid outliers.  
+- 🔧 **Converting column types** into the correct data type, such as changing the `MM-DD-YYYY` format that caused errors into short date conversion by using `Locale`.  
+- 👥 **Grouping customer ages** from raw numeric values into age segments such as `Senior`, `Gen X`, `Millennials`, and `Gen Z`.  
+- 🔗 **Creating relationships** by establishing 1-to-many links between the dimension tables and the fact table.  
+- 📅 **Improving time intelligence** by using both month name and month number to ensure correct month categorisation on the X-axis for line charts.  
+
+---
 
 # Executive Summary
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Overall, the profit margin has been very high, averaging `82.06%` from 2022 to the current year. In 2023, revenue peaked at `39.26` million dollars, while revenues in recent years, such as 2025, barely hit the 1 million mark, totaling `914.52` thousand dollars. Out of the `10,000` total goods sold, `Lisnopril` accounted for `67.96%` of the total sales. However, `Doxycycline` emerged as the top drug for profit and revenue, generating `2.2` million dollars in profit and `2.3` million dollars in revenue, with `Lisnopril` as the runner-up at 2.1 million dollars in revenue and 1.9 million dollars in profit. Underperforming drugs, including amoxicillin, fluticasone, warfarin, hydrochlorothiazide, and montelukast, ranged between 18.77 thousand dollars for the lowest and 82.59 thousand dollars.
 
+Below is the overview page fromt the PowerBi dashboards and more examples  are includded throughout the report. The entire interactive dashboard can be downloaded here 🡇[Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 # Insights Deep Dive
 
-### Category 1
+### Month-over-month comparison
+On average, February has consistently shown the lowest profit and revenue, experiencing a `-93.33%` decline from January. Sales gradually improved until May and remained consistent throughout the year, with only a slight dip in August.
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -56,7 +81,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization specific to category 1]
 
-### Category 2
+### Top 5 & Bottom 5 Drugs
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -68,7 +93,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization specific to category 2]
 
-### Category 3
+### Customer Performance
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -80,7 +105,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization specific to category 3]
 
-### Category 4
+### Customer Demographics
+per customer segment.
+by country - top 2 mention
+customer type
+Gender & Age
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -91,6 +120,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 - **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 4]
+
+
+
+
 
 # Recommendations
 
