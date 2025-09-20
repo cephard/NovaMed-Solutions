@@ -1,6 +1,5 @@
 # NovaMed-Solutions
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Power Query](https://img.shields.io/badge/Tool-Power%20Query-brightgreen)
 ![Power BI Service](https://img.shields.io/badge/Platform-Power%20BI%20Service-blue?logo=powerbi)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cephard/NovaMed-Solutions)
@@ -26,15 +25,35 @@ Insights and recommendations are provided on the following key areas:
 
 ---
 
-# Data Structure & Initial Checks
-NovaMed-Solutions main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+# Data Structure & Initial Checks  
 
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+NovaMed-Solutions main database structure as seen below consists of four tables: `Sales Fact Table`, `Customer Dim`, `Drug Lookup Dim`, and `Calendar Dim`, with the fact table housing a total row count of **1,826 records**.  
 
-[Entity Relationship Diagram here]
+A description of each table is as follows:  
+
+- **Sales Fact Table`** - 
+- **Customer Dim** -
+- `Drug Lookup Dim** -
+- **Calendar Dim**, - 
+
+---
+
+## Entity Relationship Diagram  
+![Entity Relationship Diagram](https://github.com/cephard/NovaMed-Solutions/blob/main/Entity%20Reletion%20Diagram.png)
+ Initial steps wqe conducted before commencing the analysis, this included gathering datasets from differrent online locations and transorming the data from `csv` formart into `powerqury for transformation`.
+
+---
+
+## Data Cleaning & Transformation  
+
+The data preparation process included the following key steps:  
+
+- 🗑️ **Removing duplicate IDs** and replacing errors with placeholder values or removing them to avoid outliers.  
+- 🔄 **Converting column types** into the correct data type, such as changing the `MM-DD-YYYY` format that caused errors into short date conversion by using `Locale`.  
+- 👥 **Grouping customer ages** from raw numeric values into age segments such as `Senior`, `Gen X`, `Millennials`, and `Gen Z`.  
+- 🔗 **Creating relationships** by establishing 1-to-many links between the dimension tables and the fact table.  
+- 📅 **Improving time intelligence** by using both month name and month number to ensure correct month categorisation on the X-axis for line charts.  
+
 
 # Executive Summary
 
