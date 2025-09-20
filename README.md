@@ -82,6 +82,22 @@ Below is the overview page from the Power BI dashboard. More examples are includ
 🡇 **[Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)**
 
 
+### Methodology
+**NovaMed Solutions: Sales Performance Analysis & Reporting**
+
+The SWOT framework (Strengths, Weaknesses, Opportunities, and Threats) has been utilized to evaluate the sales performance of NovaMed Solutions. By integrating SWOT analysis with sales metrics and Power BI dashboards, we identify trends, highlight areas for improvement, and anticipate potential challenges that may impact operations. 
+
+This structured approach provides strategic insights beyond mere data, supporting informed decision-making to enhance business strategies and optimize overall performance.
+
+**SWOT Breakdown**
+- **Strengths**: Products such as Doxycycline and Lisnopril, which have the highest profit margins or largest sales volumes, serve as core revenue drivers and contribute significantly to the company's profitability.
+  
+- **Weaknesses**: Underperforming products, such as Amoxicillin and Fluticasone, with low sales or minimal profit margins, reduce efficiency and highlight areas that need reassessment.
+  
+- **Opportunities**: Untapped markets and customer segments present potential for revenue growth at relatively low costs. For example, expansion into Australia and targeted campaigns for Generation X frequent buyers could be beneficial.
+  
+- **Threats**: External risks include rising costs of raw materials (COGS), declining selling prices, and a significant decrease in annual revenue, which plummeted from $39.26 million in 2023 to $914,000 in 2025. These factors may exert pressure on profit margins and overall competitiveness.
+
 # Insights Deep Dive
 
 ### Month-over-month comparison
@@ -90,6 +106,8 @@ On average, February has consistently shown the lowest profit and revenue, exper
   <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/month-on-month.png" alt="Customer Analysis"/>
 
 ### Top 5 & Bottom 5 Drugs
+
+Out of the 40 drugs distributed by Novamed SOlutions,the top 5 drugs contributed to 
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -103,39 +121,48 @@ On average, February has consistently shown the lowest profit and revenue, exper
 
 ### Customer Performance
 
-- **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+- **Top Customer** Alice Smith emerged as the top customer in terms of high profits contributing to a profit of `344.18` thousand with profit margin of `87.95%`. Although Alice is the top customer, her profits and revenue are only saturated between may and august with a sharp decline in setember having onlt $313.06 in revenue  in september whicjh is low compared tho her top month of july with 108134.08 in july. The drug that has commonly been bought by Alice is Doxycycline which wa 59.85 k of her revenue.
+- 
+- Bob Williams was the runner up with `329.88k ` profit wich was attribued a revenue of 416.85k as evident  by a spike in revenue in april and july at 93.39 k and 69.47k respectively.
+- Carol Smith was the most underperforming customer having a profit thjat is only 0.52% of the profit, however, their profit margin remained at 82.06% implying that the profit margin is not affected by the perfomance of a customer since they prices of the drugs have already been predetmined by Novamed Solutions. 
   
-- **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+**Buyer Type** 74% of the buyers where users and a 26% where sellers. However in terms of profit Sellers attributed to 87% of theprofit at 30.67m of the total 34.87 profitm. 
 
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/customer-performance.png" alt="Customer Analysis"/>
 
 ### Customer Demographics
-per customer segment.
-by country - top 2 mention
-customer type
-Gender & Age
+**Customer segment**
+There are various customer segments in the ccustomer base for novamed solutions, such as customer type, Gender, Age, Location, and Customer type.
 
+### Location
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/rev%20by%20country.png" alt="Customer Analysis"/>
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20AND%20AGE.png" alt="Customer Analysis"/>
+- As displayed on the map, Dark Blu represents the highest, yellow as the mid and light blue as the lowest.
+1. Canada:-
+   - has contributed to be the strongest customer base of 44.11% of the revenue from the reggion
+   - Out of the 18.74M revenue from Canada, 52.45% of the revenue was generated by male customers with majority of them being senior(55+).
+       
+2. Australia
+   - is the second largest customer base with 21.49% of the customer base.
+   - While this is the second highest revenue region, its revenue is close to the half of Canda's revenue.
+   - wITH A TOTAL REVENUE OF 9.13m the majority of the sales are attributed from senior female customers who made 50.49% of the revenue
+
+  In canada the higher chance a customer to buy a drug is if they are a customer type of `prefered customer` while australia has flourished on `frequent buyers`
+
+## customer type
+Apatrt frm the Frequesnt buyers who are evenly distribued in terms of age group, preferaed customers and new customers are mostlikely to be senior.
+Only seniors have a the lowest numbers of frequent buyers being 20.04% of the seniors. 
+Gen X has the majority of frequent buyers amongest them with 45.07% making that number and an even ditribution of gender.
+Millenias are also likely to be a freuent buyer with 38.02% of them being repet customers.
+45.07% of the Gen X Buyers are frequent buyers. 
+
+Gender & Age
+- The data has 3 gemnder categories, Male 46.72%, Female 32.03% and Other 21.25%
+- In the other gender, 49.26% of them are new customers and they are majorly located in CANADA.
+- The male customers are the most customers at 46.72% of all the customers, with 36.84% being a preffered custome located majorly in Canada and Australia.
+- Majority of the female customers are frequent buyers with 36.58% of them, The are evely distributed in all locations but majorly inA ustralia, then canada and some in European countries like Germnery France and United kIngdom
+
+ <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20AND%20AGE.png" alt="Customer Analysis"/>
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"/>
-
-
-- **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-
-
-
-
 
 
 # Recommendations
