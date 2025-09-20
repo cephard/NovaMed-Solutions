@@ -1,5 +1,5 @@
 # NovaMed-Solutions
-# Project Background
+## Project Background
 NovaMed Solutions is a leading pharmaceutical distributor established in 2022. The company sells prescription medicines through its online store as well as through end-of-the-line chemists and pharmacies. NovaMed serves a diverse healthcare sector, ensuring the availability of essential medications. However, inefficiencies in demand forecasting, stock management, and customer engagement strategies have impacted operational effectiveness.
 
 The company has large data silos containing sales records, customer information, and drug data. Currently, NovaMed is facing challenges in consolidating and optimising sales performance, managing inventory efficiently, and identifying key market opportunities from its multiple data sources.
@@ -8,12 +8,11 @@ Since its inception in 2022, the company has gathered comprehensive sales data, 
 
 
 Insights and recommendations are provided on the following key areas:
-
-- **Category 1:**
-- **Category 2:**
-- **Category 3:**
-- **Category 4:**
-
+- **Top/Bottom Analysis:** This involves tracking overall sales metrics, including revenue, profit, and cost of goods sold (COGS).
+- **Month-over-Month Comparison:** An analysis comparing the performance of drugs in terms of revenue and profit with the previous month.
+- **Customer Analysis:** An assessment of how customer segments, such as age group, purchasing category, and gender, influence revenue, profit, and sales.
+- **Geographical Analysis:** An examination of the key revenue sources based on customers' geographical locations, including countries.
+  
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
 Targed SQL queries regarding various business questions can be found here [link].
