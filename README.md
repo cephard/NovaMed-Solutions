@@ -89,9 +89,9 @@ The SWOT framework (Strengths, Weaknesses, Opportunities, and Threats) has been 
 This structured approach provides strategic insights beyond mere data, supporting informed decision-making to enhance business strategies and optimize overall performance.
 
 **SWOT Breakdown**
-- **Strengths**: Products such as Doxycycline and Lisnopril, which have the highest profit margins or largest sales volumes, serve as core revenue drivers and contribute significantly to the company's profitability.
+- **Strengths**: Products such as `Doxycycline` and `Lisnopril`, which have the highest profit margins or largest sales volumes, serve as core revenue drivers and contribute significantly to the company's profitability.
   
-- **Weaknesses**: Underperforming products, such as Amoxicillin and Fluticasone, with low sales or minimal profit margins, reduce efficiency and highlight areas that need reassessment.
+- **Weaknesses**: Underperforming products, such as `Amoxicillin` and `Fluticasone`, with low `revenue` or `profit margins`, reduce efficiency and highlight areas that need reassessment.
   
 - **Opportunities**: Untapped markets and customer segments present potential for revenue growth at relatively low costs. For example, expansion into Australia and targeted campaigns for Generation X frequent buyers could be beneficial.
   
