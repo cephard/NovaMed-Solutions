@@ -38,7 +38,7 @@ A description of each table is as follows:
   
 ## Entity Relationship Diagram  
 
-![Entity Relationship Diagram](https://github.com/cephard/NovaMed-Solutions/blob/main/Entity%20Reletion%20Diagram.png)
+![Entity Relationship Diagram](https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Entity%20Reletion%20Diagram.png)
 
 ---
 
