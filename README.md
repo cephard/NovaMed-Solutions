@@ -63,6 +63,7 @@ The data cleaning and transformation process included:
 
 Overall, the profit margin has been very high, averaging `82.06%` from 2022 to the current year. In 2023, revenue peaked at `39.26` million dollars, while revenues in recent years, such as 2025, barely hit the 1 million mark, totaling `914.52` thousand dollars. Out of the `10,000` total goods sold, `Lisnopril` accounted for `67.96%` of the total sales. However, `Doxycycline` emerged as the top drug for profit and revenue, generating `2.2` million dollars in profit and `2.3` million dollars in revenue, with `Lisnopril` as the runner-up at 2.1 million dollars in revenue and 1.9 million dollars in profit. Underperforming drugs, including amoxicillin, fluticasone, warfarin, hydrochlorothiazide, and montelukast, ranged between 18.77 thousand dollars for the lowest and 82.59 thousand dollars.
 
+Below is the overview page fromt the PowerBi dashboards and more examples  are includded throughout the report. The entire interactive dashboard can be downloaded here 🡇[Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 # Insights Deep Dive
