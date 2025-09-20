@@ -254,3 +254,30 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
   
 - Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+- 
+
+
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Image on the left -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard1.png" 
+         alt="Top/Bottom Analysis" style="width: 100%; border-radius: 8px;"/>
+  </div>
+
+  <!-- Text on the right -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>Top/Bottom Analysis</h3>
+    <p>
+      This chart shows the top-performing and underperforming drugs by revenue and profit.
+      Doxycycline and Lisnopril dominate sales, while drugs like Amoxicillin and Montelukast 
+      contribute minimally. Based on this, targeted marketing campaigns for top drugs and 
+      bundling strategies for underperformers are recommended.
+    </p>
+  </div>
+
+</div>
+
