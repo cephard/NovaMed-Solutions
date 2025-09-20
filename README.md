@@ -31,10 +31,10 @@ NovaMed-Solutions main database structure as seen below consists of four tables:
 
 A description of each table is as follows:  
 
-- **Sales Fact Table`** - 
+- **Sales Fact Table** - 
 - **Customer Dim** -
 - `Drug Lookup Dim** -
-- **Calendar Dim**, -
+- **Calendar Dim** -
   
 ## Entity Relationship Diagram  
 
@@ -101,23 +101,36 @@ This structured approach provides strategic insights beyond mere data, supportin
 # Insights Deep Dive
 
 ### Month-over-month comparison
-On average, February has consistently shown the lowest profit and revenue, experiencing a `-93.33%` decline from January. Sales gradually improved until May and remained consistent throughout the year, with only a slight dip in August.
+On average, February consistently records the lowest profit and revenue, experiencing a steep -93.33% decline from January. Sales generally recover gradually from March, peaking around May, and remain relatively stable throughout the rest of the year, with only a slight dip in August.
 
   <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/month-on-month.png" alt="Customer Analysis"/>
+####   2022
+- Revenue fell sharply from January to March: first by -43.21%, then by -21.30%.
+- Recovery followed in subsequent months, but a drastic decline of -81.26% occurred in June.
+- July saw a rebound, though the year closed weakly with a -65.29% drop in November.
+
+####   2023
+- January started stronger with a +9.18% increase compared to December 2022.
+- However, February quickly reversed this with a -26.38% decline.
+- Revenue and profit showed steady growth throughout the year, with only minor dips—August being the worst (-15.61% revenue, -15.83% profit).
+- Despite the strong start, the year closed slightly down in December (-5.67% revenue, -5.74% profit).
+
+####   2024
+- 2023 ended at 3.39M revenue, but January 2024 plummeted to 56.65K, a shocking -98.33% drop.
+- This is especially notable given December 2022 closed at 89.76K, and January 2023 surged to 3.59M (+3901.30%), suggesting 2023 may have been an outlier year.
+- March 2024 marked the year’s peak revenue at 134.98K.
+- Sales held steady until September, which saw a -48.02% dip from August.
+- The year ended weak again, closing December at 44.81K revenue and 42.32K profit.
+  
+####   2025
+- January began with a +12.20% increase, but February collapsed with a -91.82% decline.
+- Recovery was modest through mid-year, but after April, sales consistently trended downward, reaching the year’s lowest in November (23.05K revenue, 20.64K profit, representing -69.50% and -67.37% declines from October).
+- Encouragingly, December closed with a strong rebound, ending the year at 144.23K revenue (+525.82%) and profit up +444.56% compared to November.
 
 ### Top 5 & Bottom 5 Drugs
 
-Out of the 40 drugs distributed by Novamed SOlutions,the top 5 drugs contributed to 
-
-- **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/top%205%20drugs.png" alt="Customer Analysis"/>
+
 
 ### Customer Performance
 
@@ -165,10 +178,9 @@ Gender & Age
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"/>
 
 
-# Recommendations
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
+# Strategic Recommendations for NovaMed Solutions  
 
-## 🔹 Strategic Recommendations for NovaMed Solutions  
+Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
 
 ### 1. Revenue & Profit Optimization  
 - 📉 **February underperformance** → Introduce seasonal promotions or discount campaigns to stabilize sales.  
