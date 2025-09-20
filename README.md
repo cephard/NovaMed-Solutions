@@ -65,8 +65,7 @@ Overall, the profit margin has been very high, averaging `82.06%` from 2022 to t
 
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report.  
 
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align="center">
   <div style="flex: 1; min-width: 300px;">
     <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard1.png" alt="Top/Bottom Analysis" style="width: 100%;"/>
     <p style="text-align:center;"><em>Top/Bottom Analysis</em></p>
@@ -103,10 +102,11 @@ This structured approach provides strategic insights beyond mere data, supportin
 ### Month-over-month comparison
 On average, February consistently records the lowest profit and revenue, experiencing a steep -93.33% decline from January. Sales generally recover gradually from March, peaking around May, and remain relatively stable throughout the rest of the year, with only a slight dip in August.
 
+<p align="center">
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/month-on-month.png" 
      alt="Month-over-Month Revenue and Profit Trends" 
      style="width:500px; display:block; margin:auto;"/>
-
+</p>
   
 ####   2022
 - Revenue fell sharply from January to March: first by -43.21%, then by -21.30%.
