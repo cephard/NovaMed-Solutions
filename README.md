@@ -66,12 +66,12 @@ Overall, the profit margin has been very high, averaging `82.06%` from 2022 to t
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report.  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align="center">
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 400px;">
     <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard1.png" alt="Top/Bottom Analysis" style="width: 100%;"/>
     <p style="text-align:center;"><em>Top/Bottom Analysis</em></p>
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 400px;">
     <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard2.png" alt="Customer Analysis" style="width: 100%;"/>
     <p style="text-align:center;"><em>Customer Analysis</em></p>
   </div>
