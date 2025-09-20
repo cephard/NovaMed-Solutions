@@ -131,7 +131,8 @@ On average, February consistently records the lowest profit and revenue, experie
 - Recovery was modest through mid-year, but after April, sales consistently trended downward, reaching the year’s lowest in November (23.05K revenue, 20.64K profit, representing -69.50% and -67.37% declines from October).
 - Encouragingly, December closed with a strong rebound, ending the year at 144.23K revenue (+525.82%) and profit up +444.56% compared to November.
 
-<table>
+
+<table align="center">
   <thead>
     <tr>
       <th>Year</th>
@@ -164,8 +165,9 @@ On average, February consistently records the lowest profit and revenue, experie
 
 ### Top 5 & Bottom 5 Drugs
 
+<p align="center">
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis"  style="width:100px; display:block; margin:auto;"/>
-
+</p>
 
 ### Customer Performance
 
@@ -176,14 +178,19 @@ On average, February consistently records the lowest profit and revenue, experie
   
 **Buyer Type** 74% of the buyers where users and a 26% where sellers. However in terms of profit Sellers attributed to 87% of theprofit at 30.67m of the total 34.87 profitm. 
 
+<p align="center">
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis" style="width:500px; display:block; margin:auto;"/>
+</p>
 
 ### Customer Demographics
 **Customer segment**
 There are various customer segments in the ccustomer base for novamed solutions, such as customer type, Gender, Age, Location, and Customer type.
 
 ### Location
+<p align="center">
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+</p>
+
 - As displayed on the map, Dark Blu represents the highest, yellow as the mid and light blue as the lowest.
 1. Canada:-
    - has contributed to be the strongest customer base of 44.11% of the revenue from the reggion
@@ -213,7 +220,9 @@ Gender & Age
 - The male customers are the most customers at 46.72% of all the customers, with 36.84% being a preffered custome located majorly in Canada and Australia.
 - Majority of the female customers are frequent buyers with 36.58% of them, The are evely distributed in all locations but majorly inA ustralia, then canada and some in European countries like Germnery France and United kIngdom
 
+<p align="center">
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+</p>
 
 # Strategic Recommendations for NovaMed Solutions  
 
