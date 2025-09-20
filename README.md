@@ -1,10 +1,11 @@
 # NovaMed-Solutions
-
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :)
-
 # Project Background
+NovaMed Solutions is a leading pharmaceutical distributor established in 2022. The company sells prescription medicines through its online store as well as through end-of-the-line chemists and pharmacies. NovaMed serves a diverse healthcare sector, ensuring the availability of essential medications. However, inefficiencies in demand forecasting, stock management, and customer engagement strategies have impacted operational effectiveness.
 
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+The company has large data silos containing sales records, customer information, and drug data. Currently, NovaMed is facing challenges in consolidating and optimising sales performance, managing inventory efficiently, and identifying key market opportunities from its multiple data sources.
+
+Since its inception in 2022, the company has gathered comprehensive sales data, including revenue, profit margins, drug performance, and customer demographics. To enhance business strategies and streamline operations through data-driven decision-making, an in-depth analysis was conducted to identify trends and key performance indicators (KPIs).
+
 
 Insights and recommendations are provided on the following key areas:
 
