@@ -31,10 +31,10 @@ NovaMed-Solutions main database structure as seen below consists of four tables:
 
 A description of each table is as follows:  
 
-- **Sales Fact Table** - 
-- **Customer Dim** -
-- `Drug Lookup Dim** -
-- **Calendar Dim** -
+- **Sales Fact Table** - Cosntitutes of the table that consistantly gets updated. The table contains a primary key `SaleID` and foreign keys for other dim tables such as `DrugID`, `CustomerID`, and `Sale Date`. Also includes other columns data `UnitsSold` and `Buyer Type`. `Revenue`, `Profit` and `Cost of Goods` Calculated columns have also been added to the table for analysiss purposes.
+- **Customer Dim** - Contains the customer personal data `First Name`, `Last Name`, `Age`, and `Gender`. `Age group` calculated column has been added to best categorize cusromer dimention for analysis.
+- Drug Lookup Dim** - Drug details like `RegulatoryComplianceID`,`DrugName`,`UnitSalesPrice`,`CostOfProduction`,`Treats`. The numerical columns of this table contribute to the creation of the calculated columns in thhe FactTable using **RELATED** keyword.
+- **Calendar Dim** - Contains a calender custom made to comform with the periods novamed has been in business, includes `Year`, `Month Name`, `Date Month Number` which is essential for the line chart month over month analysis.
   
 ## Entity Relationship Diagram  
 
@@ -254,30 +254,4 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
   
 - Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
-- 
-
-
-
-
-
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Image on the left -->
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard1.png" 
-         alt="Top/Bottom Analysis" style="width: 100%; border-radius: 8px;"/>
-  </div>
-
-  <!-- Text on the right -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Top/Bottom Analysis</h3>
-    <p>
-      This chart shows the top-performing and underperforming drugs by revenue and profit.
-      Doxycycline and Lisnopril dominate sales, while drugs like Amoxicillin and Montelukast 
-      contribute minimally. Based on this, targeted marketing campaigns for top drugs and 
-      bundling strategies for underperformers are recommended.
-    </p>
-  </div>
-
-</div>
-
+  
