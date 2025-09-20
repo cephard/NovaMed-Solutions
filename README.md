@@ -203,15 +203,17 @@ Gen X has the majority of frequent buyers amongest them with 45.07% making that 
 Millenias are also likely to be a freuent buyer with 38.02% of them being repet customers.
 45.07% of the Gen X Buyers are frequent buyers. 
 
+<p align="center">
+ <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+</p>
+
 Gender & Age
 - The data has 3 gemnder categories, Male 46.72%, Female 32.03% and Other 21.25%
 - In the other gender, 49.26% of them are new customers and they are majorly located in CANADA.
 - The male customers are the most customers at 46.72% of all the customers, with 36.84% being a preffered custome located majorly in Canada and Australia.
 - Majority of the female customers are frequent buyers with 36.58% of them, The are evely distributed in all locations but majorly inA ustralia, then canada and some in European countries like Germnery France and United kIngdom
 
- <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
-
 
 # Strategic Recommendations for NovaMed Solutions  
 
