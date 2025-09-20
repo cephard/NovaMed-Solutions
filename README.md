@@ -164,7 +164,7 @@ On average, February consistently records the lowest profit and revenue, experie
 
 ### Top 5 & Bottom 5 Drugs
 
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis"  style="width:100px; display:block; margin:auto;"/>
 
 
 ### Customer Performance
