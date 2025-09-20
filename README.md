@@ -61,13 +61,14 @@ The data cleaning and transformation process included:
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Overall, the profit margin has been very high, averaging `82.06%` from 2022 to the current year. In 2023, revenue peaked at `39.26` million dollars, while revenues in recent years, such as 2025, barely hit the 1 million mark, totaling `914.52` thousand dollars. Out of the `10,000` total goods sold, `Lisnopril` accounted for `67.96%` of the total sales. However, `Doxycycline` emerged as the top drug for profit and revenue, generating `2.2` million dollars in profit and `2.3` million dollars in revenue, with `Lisnopril` as the runner-up at 2.1 million dollars in revenue and 1.9 million dollars in profit. Underperforming drugs, including amoxicillin, fluticasone, warfarin, hydrochlorothiazide, and montelukast, ranged between 18.77 thousand dollars for the lowest and 82.59 thousand dollars.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 # Insights Deep Dive
 
-### Category 1
+### Month-over-month comparison
+On average, February has consistently shown the lowest profit and revenue, experiencing a `-93.33%` decline from January. Sales gradually improved until May and remained consistent throughout the year, with only a slight dip in August.
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -79,7 +80,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization specific to category 1]
 
-### Category 2
+### Top 5 & Bottom 5 Drugs
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -91,7 +92,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization specific to category 2]
 
-### Category 3
+### Customer Performance
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -103,7 +104,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization specific to category 3]
 
-### Category 4
+### Customer Demographics
+per customer segment.
+by country - top 2 mention
+customer type
+Gender & Age
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -114,6 +119,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 - **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 4]
+
+
+
+
 
 # Recommendations
 
