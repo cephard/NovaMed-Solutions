@@ -1,5 +1,8 @@
 # NovaMed-Solutions
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Power Query](https://img.shields.io/badge/Tool-Power%20Query-brightgreen)
+![Power BI Service](https://img.shields.io/badge/Platform-Power%20BI%20Service-blue?logo=powerbi)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cephard/NovaMed-Solutions)
 
 ---
@@ -24,8 +27,7 @@ Insights and recommendations are provided on the following key areas:
 ---
 
 # Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+NovaMed-Solutions main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
 
 - **Table 2:**
 - **Table 3:**
