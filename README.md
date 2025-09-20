@@ -104,6 +104,7 @@ This structured approach provides strategic insights beyond mere data, supportin
 On average, February consistently records the lowest profit and revenue, experiencing a steep -93.33% decline from January. Sales generally recover gradually from March, peaking around May, and remain relatively stable throughout the rest of the year, with only a slight dip in August.
 
   <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/month-on-month.png" alt="Customer Analysis"/>
+  
 ####   2022
 - Revenue fell sharply from January to March: first by -43.21%, then by -21.30%.
 - Recovery followed in subsequent months, but a drastic decline of -81.26% occurred in June.
