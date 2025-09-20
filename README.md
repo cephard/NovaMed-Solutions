@@ -68,12 +68,12 @@ Below is the overview page from the Power BI dashboard. More examples are includ
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Dashboard1.png" alt="Top/Bottom Analysis" style="width: 100%;"/>
+    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard1.png" alt="Top/Bottom Analysis" style="width: 100%;"/>
     <p style="text-align:center;"><em>Top/Bottom Analysis</em></p>
   </div>
 
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Dashboard2.png" alt="Customer Analysis" style="width: 100%;"/>
+    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Dashboard2.png" alt="Customer Analysis" style="width: 100%;"/>
     <p style="text-align:center;"><em>Customer Analysis</em></p>
   </div>
 </div>
@@ -103,7 +103,7 @@ This structured approach provides strategic insights beyond mere data, supportin
 ### Month-over-month comparison
 On average, February consistently records the lowest profit and revenue, experiencing a steep -93.33% decline from January. Sales generally recover gradually from March, peaking around May, and remain relatively stable throughout the rest of the year, with only a slight dip in August.
 
-  <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/month-on-month.png" alt="Customer Analysis"/>
+  <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/month-on-month.png" alt="Customer Analysis"/>
   
 ####   2022
 - Revenue fell sharply from January to March: first by -43.21%, then by -21.30%.
@@ -128,9 +128,36 @@ On average, February consistently records the lowest profit and revenue, experie
 - Recovery was modest through mid-year, but after April, sales consistently trended downward, reaching the year’s lowest in November (23.05K revenue, 20.64K profit, representing -69.50% and -67.37% declines from October).
 - Encouragingly, December closed with a strong rebound, ending the year at 144.23K revenue (+525.82%) and profit up +444.56% compared to November.
 
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Customer Analysis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2022</td>
+      <td><img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202022.png" alt="Customer Analysis 2022" width="300"></td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202023.png" alt="Customer Analysis 2023" width="300"></td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202024.png" alt="Customer Analysis 2024" width="300"></td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td><img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/M-O-M%202025.png" alt="Customer Analysis 2025" width="300"></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Top 5 & Bottom 5 Drugs
 
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/top%205%20drugs.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis"/>
 
 
 ### Customer Performance
@@ -142,14 +169,14 @@ On average, February consistently records the lowest profit and revenue, experie
   
 **Buyer Type** 74% of the buyers where users and a 26% where sellers. However in terms of profit Sellers attributed to 87% of theprofit at 30.67m of the total 34.87 profitm. 
 
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/customer-performance.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis"/>
 
 ### Customer Demographics
 **Customer segment**
 There are various customer segments in the ccustomer base for novamed solutions, such as customer type, Gender, Age, Location, and Customer type.
 
 ### Location
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/rev%20by%20country.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"/>
 - As displayed on the map, Dark Blu represents the highest, yellow as the mid and light blue as the lowest.
 1. Canada:-
    - has contributed to be the strongest customer base of 44.11% of the revenue from the reggion
@@ -175,8 +202,8 @@ Gender & Age
 - The male customers are the most customers at 46.72% of all the customers, with 36.84% being a preffered custome located majorly in Canada and Australia.
 - Majority of the female customers are frequent buyers with 36.58% of them, The are evely distributed in all locations but majorly inA ustralia, then canada and some in European countries like Germnery France and United kIngdom
 
- <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20AND%20AGE.png" alt="Customer Analysis"/>
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"/>
+ <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"/>
 
 
 # Strategic Recommendations for NovaMed Solutions  
