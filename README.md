@@ -105,7 +105,7 @@ On average, February consistently records the lowest profit and revenue, experie
 <p align="center">
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/month-on-month.png" 
      alt="Month-over-Month Revenue and Profit Trends" 
-     style="width:500px; display:block; margin:auto;"/>
+     style="width:800px; display:block; margin:auto;"/>
 </p>
   
 ####   2022
@@ -133,12 +133,6 @@ On average, February consistently records the lowest profit and revenue, experie
 
 
 <table align="center">
-  <thead>
-    <tr>
-      <th>Year</th>
-      <th>Customer Analysis</th>
-    </tr>
-  </thead>
   <tbody>
    <tr>
     <td>
@@ -179,7 +173,7 @@ On average, February consistently records the lowest profit and revenue, experie
 **Buyer Type** 74% of the buyers where users and a 26% where sellers. However in terms of profit Sellers attributed to 87% of theprofit at 30.67m of the total 34.87 profitm. 
 
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis" style="width:500px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis" style="width:800px; display:block; margin:auto;"/>
 </p>
 
 ### Customer Demographics
@@ -188,7 +182,7 @@ There are various customer segments in the ccustomer base for novamed solutions,
 
 ### Location
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
 </p>
 
 - As displayed on the map, Dark Blu represents the highest, yellow as the mid and light blue as the lowest.
@@ -211,7 +205,7 @@ Millenias are also likely to be a freuent buyer with 38.02% of them being repet 
 45.07% of the Gen X Buyers are frequent buyers. 
 
 <p align="center">
- <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+ <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20AND%20AGE.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
 </p>
 
 Gender & Age
@@ -221,7 +215,7 @@ Gender & Age
 - Majority of the female customers are frequent buyers with 36.58% of them, The are evely distributed in all locations but majorly inA ustralia, then canada and some in European countries like Germnery France and United kIngdom
 
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"  style="width:500px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
 </p>
 
 # Strategic Recommendations for NovaMed Solutions  
