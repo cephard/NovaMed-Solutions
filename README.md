@@ -166,18 +166,40 @@ Gender & Age
 
 
 # Recommendations
-
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
 
-- Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-- Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-- Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-- Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-- Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+## 🔹 Strategic Recommendations for NovaMed Solutions  
+
+### 1. Revenue & Profit Optimization  
+- 📉 **February underperformance** → Introduce seasonal promotions or discount campaigns to stabilize sales.  
+- 💊 **Underperforming drugs** (*Amoxicillin, Fluticasone, Warfarin, Hydrochlorothiazide, Montelukast*) → Bundle with top performers (*Doxycycline, Lisnopril*) or offer targeted discounts.  
+- 📦 **Inventory control** → Monitor turnover of low-demand drugs to minimize overstocking and reduce holding costs.  
+
+### 2. Top Drug Strategy  
+- 🚀 **Doxycycline and Lisnopril** → Secure long-term supplier agreements to ensure steady availability.  
+- 📈 **Marketing focus** → Invest in campaigns to strengthen dominance of top-selling drugs.  
+- 🧪 **Portfolio diversification** → Explore new drug categories aligned with top performer trends.  
+
+### 3. Customer Relationship Management  
+- 🥇 **Loyalty programs** → Reward top customers (*Alice Smith, Bob Williams*) with exclusive discounts.  
+- 📉 **Customer re-engagement** → Target underperforming customers (*Carol Smith*) with personalized offers.  
+- 👥 **Segmentation strategy** → Tailor campaigns by customer type and age group (e.g., incentives for **Gen X frequent buyers**).  
+
+### 4. Geographical Expansion  
+- 🌍 **Canada (44% revenue)** → Strengthen presence by focusing on preferred senior customers.  
+- 🇦🇺 **Australia (21.5% revenue)** → Expand campaigns targeting frequent senior female buyers.  
+- 🌐 **Europe (UK, Germany, France)** → Explore opportunities in regions with smaller but growing revenue streams.  
+
+### 5. Operational Efficiency  
+- 🏭 **Inventory forecasting** → Leverage Power BI predictive models to align stock with seasonal demand.  
+- 🔄 **KPI dashboards** → Deploy real-time Power BI Service dashboards to track revenue, margins, and stock levels.  
+- 🕒 **Automated alerts** → Set notifications for low inventory of high-demand products.  
+
+### 6. Future Growth Opportunities  
+- 🔮 **Predictive analytics** → Forecast sales performance by drug and region.  
+- 📱 **Customer engagement tools** → Develop mobile app or email campaigns informed by demographic insights.  
+- 🛒 **E-commerce personalization** → Recommend products based on purchase history, following best practices from leading retail platforms.  
+
   
 # Assumptions and Caveats
 
