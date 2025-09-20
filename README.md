@@ -268,9 +268,15 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-- Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-- Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-- Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
-  
+##Assumptions
+- It is assumed that data entry and collection were conducted correctly prior to the analysis.
+- The exceptionally high sales in 2023 are likely due to a strategic partnership or collaboration with another supplier, boosting overall revenue.
+- The CustomerID corresponding to the Buyer Type in the Fact table had conflicting relationships. It is assumed that the Buyer Type (User or Seller) represents how the customer acquired the medicine—either directly from NovaMed as a user or via a third-party retailer.
+- This assumption is necessary because the Fact table violates the 3rd normal form due to a transitive dependency.
+- If the data were fully normalized, Buyer Type would belong to the Customer table.
+- Therefore, basing results on Buyer Type may slightly misrepresent customer behavior. It is treated as a pseudo key to indicate the acquisition method rather than a definitive attribute of the customer.
+
+##Caveats
+- Data Quality Limitations – Some records may contain errors, duplicates, or missing values, which could slightly affect the accuracy of revenue, profit, or customer analyses.
+- Buyer Type Interpretation – Since Buyer Type in the Fact table may not fully reflect customer behavior due to normalization issues, insights based on this field should be interpreted with caution.
+- External Factors Not Considered – Market dynamics, supply chain disruptions, competitor actions, or regulatory changes were not captured in the dataset but could impact actual sales and profitability trends.
