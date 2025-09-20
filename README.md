@@ -66,18 +66,17 @@ Overall, the profit margin has been very high, averaging `82.06%` from 2022 to t
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report.  
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Dashboard1.png" alt="Top/Bottom Analysis" width="400"/>
-      <p style="text-align:center;"><em>Top/Bottom Analysis</em></p>
-    </td>
-    <td>
-      <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Dashboard2.png" alt="Customer Analysis" width="400"/>
-      <p style="text-align:center;"><em>Customer Analysis</em></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Dashboard1.png" alt="Top/Bottom Analysis" style="width: 100%;"/>
+    <p style="text-align:center;"><em>Top/Bottom Analysis</em></p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Dashboard2.png" alt="Customer Analysis" style="width: 100%;"/>
+    <p style="text-align:center;"><em>Customer Analysis</em></p>
+  </div>
+</div>
 
 ### Download the Interactive Dashboard  
 🡇 **[Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)**
