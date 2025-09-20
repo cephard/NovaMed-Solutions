@@ -87,8 +87,7 @@ Below is the overview page from the Power BI dashboard. More examples are includ
 ### Month-over-month comparison
 On average, February has consistently shown the lowest profit and revenue, experiencing a `-93.33%` decline from January. Sales gradually improved until May and remained consistent throughout the year, with only a slight dip in August.
 
-
-[Visualization specific to category 1]
+  <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/month-on-month.png" alt="Customer Analysis"/>
 
 ### Top 5 & Bottom 5 Drugs
 
@@ -100,7 +99,7 @@ On average, February has consistently shown the lowest profit and revenue, exper
   
 - **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 2]
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/top%205%20drugs.png" alt="Customer Analysis"/>
 
 ### Customer Performance
 
@@ -112,13 +111,18 @@ On average, February has consistently shown the lowest profit and revenue, exper
   
 - **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 3]
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/customer-performance.png" alt="Customer Analysis"/>
 
 ### Customer Demographics
 per customer segment.
 by country - top 2 mention
 customer type
 Gender & Age
+
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/rev%20by%20country.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20AND%20AGE.png" alt="Customer Analysis"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/gender%20age%20cust%20group%20distribution.png" alt="Customer Analysis"/>
+
 
 - **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -128,7 +132,7 @@ Gender & Age
   
 - **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 4]
+
 
 
 
