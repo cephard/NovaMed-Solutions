@@ -13,7 +13,7 @@ The company has large data silos containing sales records, customer information,
 Since its inception in 2022, the company has gathered comprehensive sales data, including revenue, profit margins, drug performance, and customer demographics. To enhance business strategies and streamline operations through data-driven decision-making, an in-depth analysis was conducted to identify trends and key performance indicators (KPIs).
 
 ---
-## Key Insights & Recommendations  
+## Key Insights
 Insights and recommendations are provided on the following key areas:
 - ✅ **Top/Bottom Analysis:** This involves tracking overall sales metrics, including revenue, profit, and cost of goods sold (COGS).
 - ✅ **Month-over-Month Comparison:** An analysis comparing the performance of drugs in terms of revenue and profit with the previous month.
