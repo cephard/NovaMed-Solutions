@@ -87,13 +87,6 @@ Below is the overview page from the Power BI dashboard. More examples are includ
 ### Month-over-month comparison
 On average, February has consistently shown the lowest profit and revenue, experiencing a `-93.33%` decline from January. Sales gradually improved until May and remained consistent throughout the year, with only a slight dip in August.
 
-- **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-- **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 1]
 
