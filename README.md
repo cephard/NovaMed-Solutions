@@ -25,6 +25,10 @@ Insights and recommendations are provided on the following key areas:
 
 ---
 
+<iframe title="NovaMed Solutions" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTJmZDFmMTItMDc4Ni00YTQxLWFhMTAtYzZlZDc2ZWQ3MTJkIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
 # Data Structure & Initial Checks  
 
 NovaMed-Solutions main database structure as seen below consists of four tables: `Sales Fact Table`, `Customer Dim`, `Drug Lookup Dim`, and `Calendar Dim`, with the fact table housing a total row count of **1,826 records**.  
