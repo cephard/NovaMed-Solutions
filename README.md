@@ -58,6 +58,16 @@ The data cleaning and transformation process included:
 ## Executive Summary
 The profit margin has remained high, averaging 81.97% over the years.In 2023, revenue peaked at $61.68 million, while revenues for subsequent years, such as 2025, only reached $2.88 million.Doxycycline was the highest-selling drug, generating a revenue of $3.53 million and a profit of $3.36 million, resulting in a profit margin of 95.10%. Other top-selling drugs included Ergocalciferol, Lisinopril, Clonazepam, and Ezetimibe, each making over $3 million in revenue individually.The bottom five underperforming drugs barely reached $1 million in revenue, with Metformin having the highest at $ 607.27 thousand and Warfarin having the lowest at $229.25 thousand. The majority of the bottom five drugs exhibited low profit margins below 35%, with only Prednisone achieving a profit margin of 77.85%.
 
+### Key Performance Indicators (KPIs)
+
+| Metric                  | Value              | Insight                              |
+|--------------------------|--------------------|--------------------------------------|
+| **Average Profit Margin** | **81.97%**         | Strong profitability across years    |
+| **Peak Revenue (2023)**  | **$61.68M**        | Exceptional growth year              |
+| **2025 Revenue**         | **$2.88M**         | Significant drop compared to 2023    |
+| **Top Drug (Revenue)**   | **Doxycycline – $3.53M** | Highest-selling drug, 95.1% margin |
+| **Bottom Drug (Revenue)**| **Warfarin – $229.25K** | Weakest performer, <35% margin      |
+
 ---
 
 ## Overview of Findings
