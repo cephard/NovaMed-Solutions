@@ -1,4 +1,4 @@
-# NovaMed-Solutions
+<img width="3065" height="211" alt="image" src="https://github.com/user-attachments/assets/84986771-0d4b-4194-9415-8797f7a0e25b" /><img width="3091" height="216" alt="image" src="https://github.com/user-attachments/assets/86a0fead-ca27-4256-b375-57bd05169c9c" /><img width="4143" height="254" alt="image" src="https://github.com/user-attachments/assets/6388ea0b-53d5-4822-afe4-b81a3e2d9c21" /><img width="3227" height="402" alt="image" src="https://github.com/user-attachments/assets/a08d80be-ce08-41c6-8e31-39e1e838b8f6" /># NovaMed-Solutions
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Power Query](https://img.shields.io/badge/Tool-Power%20Query-brightgreen)
 ![Power BI Service](https://img.shields.io/badge/Platform-Power%20BI%20Service-blue?logo=powerbi)
@@ -57,19 +57,11 @@ The data cleaning and transformation process included:
 ---
 
 # Executive Summary
-The profit margin has been high, averaging 81.97%.In 2023, revenue peaked at $5.80 million in July, while revenues for other years never reached $1 million in any month. The combined revenue of the bottom five drugs is less than the revenue of any individual drug on the top five list. Top-selling drugs such as Doxycycline and Ezetimibe have individual revenues exceeding $3 million. Canada and Australia contribute the largest share of revenue, with the majority of customers being seniors. Although most of the drugs were purchased directly by end users, the sellers' revenue was 7.4 times greater than the revenue from end users. 
+The profit margin has remained high, averaging 81.97% over the years.In 2023, revenue peaked at $61.68 million, while revenues for subsequent years, such as 2025, only reached $2.88 million.Doxycycline was the highest-selling drug, generating a revenue of $3.53 million and a profit of $3.36 million, resulting in a profit margin of 95.10%. Other top-selling drugs included Ergocalciferol, Lisinopril, Clonazepam, and Ezetimibe, each making over $3 million in revenue individually.The bottom five underperforming drugs barely reached $1 million in revenue, with Metformin having the highest at $ 607.27 thousand and Warfarin having the lowest at $229.25 thousand. The majority of the bottom five drugs exhibited low profit margins below 35%, with only Prednisone achieving a profit margin of 77.85%.
 
-
-
-
-
-
-
-
-
+---
 
 ### Overview of Findings
-
 
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report.  
 
@@ -85,25 +77,33 @@ Below is the overview page from the Power BI dashboard. More examples are includ
   </div>
 </div>
 
-### Download the Interactive Dashboard  
-🡇 **[Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)**
+### View the Interactive Dashboard  
+🡇 **[View NovaMed Solutions.pbix](https://cephard.github.io/NovaMed-Solutions/)**
 
+---
 
 ### Methodology
 **NovaMed Solutions: Sales Performance Analysis & Reporting**
 
-The SWOT framework (Strengths, Weaknesses, Opportunities, and Threats) has been utilized to evaluate the sales performance of NovaMed Solutions. By integrating SWOT analysis with sales metrics and Power BI dashboards, we identify trends, highlight areas for improvement, and anticipate potential challenges that may impact operations. 
+The SWOT framework (Strengths, Weaknesses, Opportunities, and Threats) has been utilized to evaluate the sales performance of NovaMed Solutions.
+By integrating SWOT analysis with sales metrics and Power BI dashboards, we identify trends, highlight areas for improvement, and anticipate potential challenges that may impact operations.
 
 This structured approach provides strategic insights beyond mere data, supporting informed decision-making to enhance business strategies and optimize overall performance.
 
 **SWOT Breakdown**
-- **Strengths**: Products such as `Doxycycline` and `Lisnopril`, which have the highest profit margins or largest sales volumes, serve as core revenue drivers and contribute significantly to the company's profitability.
-  
-- **Weaknesses**: Underperforming products, such as `Amoxicillin` and `Fluticasone`, with low `revenue` or `profit margins`, reduce efficiency and highlight areas that need reassessment.
-  
-- **Opportunities**: Untapped markets and customer segments present potential for revenue growth at relatively low costs. For example, expansion into Australia and targeted campaigns for Generation X frequent buyers could be beneficial.
-  
-- **Threats**: External risks include rising costs of raw materials (COGS), declining selling prices, and a significant decrease in annual revenue, which plummeted from $39.26 million in 2023 to $914,000 in 2025. These factors may exert pressure on profit margins and overall competitiveness.
+**Strengths**
+Products such as **Doxycycline** and **Lisinopril**, which have the highest profit margins and the largest sales volumes, serve as core revenue drivers and significantly contribute to the company's profitability.
+
+**Weaknesses**
+Underperforming products like **Amoxicillin** and **Fluticasone**, which generate low revenue or possess low profit margins, hinder efficiency and indicate areas that require reevaluation.
+
+**Opportunities**
+Untapped markets and customer segments offer potential for revenue growth at relatively low costs. For instance, expanding into **Australia** and implementing targeted campaigns for **Generation X frequent buyers** could be a beneficial move.
+
+**Threats**
+External risks include rising costs of raw materials (COGS), declining selling prices, and a substantial drop in annual revenue, which fell from **$5.19 million in December 2023** to a decrease of **59.18% in January 2024**. These factors may place pressure on profit margins and overall competitiveness.
+
+---
 
 # Insights Deep Dive
 
@@ -117,28 +117,24 @@ On average, February consistently records the lowest profit and revenue, experie
 </p>
   
 ####   2022
-- Revenue fell sharply from January to March: first by -43.21%, then by -21.30%.
-- Recovery followed in subsequent months, but a drastic decline of -81.26% occurred in June.
-- July saw a rebound, though the year closed weakly with a -65.29% drop in November.
-
+- Revenue experienced a sharp decline of 45.04% from January to February.
+- There was a recovery in the following months, but June saw another drop of 16.65%.
+- From July to September, revenue rebounded; however, the year ended on a weak note, with December recording the lowest levels of both profit and loss.
+  
 ####   2023
-- January started stronger with a +9.18% increase compared to December 2022.
-- However, February quickly reversed this with a -26.38% decline.
-- Revenue and profit showed steady growth throughout the year, with only minor dips—August being the worst (-15.61% revenue, -15.83% profit).
-- Despite the strong start, the year closed slightly down in December (-5.67% revenue, -5.74% profit).
-
+- January started strong with a 3900.95% increase over December 2022, but February saw a significant decline of 22.43%.
+- Overall, revenue and profit showed steady growth throughout the year, with a notable dip in August at 19.94%.
+- December ended slightly negatively with an 8.30% decrease.
+  
 ####   2024
-- 2023 ended at 3.39M revenue, but January 2024 plummeted to 56.65K, a shocking -98.33% drop.
-- This is especially notable given December 2022 closed at 89.76K, and January 2023 surged to 3.59M (+3901.30%), suggesting 2023 may have been an outlier year.
-- March 2024 marked the year’s peak revenue at 134.98K.
-- Sales held steady until September, which saw a -48.02% dip from August.
-- The year ended weak again, closing December at 44.81K revenue and 42.32K profit.
+- In January 2024, revenue fell by 59.18% from December 2023. December 2022 ended at $136.43K, while January 2023 surged to $5.46M, a 3900.95% increase, suggesting 2023 was atypical.
+- Revenue in 2024 has generally declined, with a slight growth of 55.12%, and a significant drop of 40.20% in September.
+- However, December 2024 rebounded strongly, reaching $372.82K, nearly doubling with a 99.99% increase.1-4b60-b5cd-3de2e5db000a" />
   
 ####   2025
-- January began with a +12.20% increase, but February collapsed with a -91.82% decline.
-- Recovery was modest through mid-year, but after April, sales consistently trended downward, reaching the year’s lowest in November (23.05K revenue, 20.64K profit, representing -69.50% and -67.37% declines from October).
-- Encouragingly, December closed with a strong rebound, ending the year at 144.23K revenue (+525.82%) and profit up +444.56% compared to November.
-
+- January started strong with a 30.89% increase; however, February experienced a significant drop of 33.98%.
+- Recovery was modest until mid-year, and after April, sales began to decline steadily, hitting their lowest point in November, although September saw a notable spike of 48.96%.
+- December ended the year with a remarkable 74.05% increase.
 
 <table align="center">
   <tbody>
@@ -165,23 +161,30 @@ On average, February consistently records the lowest profit and revenue, experie
   </tbody>
 </table>
 
-### Top 5 & Bottom 5 Drugs
+---
 
+### Top 5 & Bottom 5 Drugs
 <table align="center">
   <tbody>
    <tr>
     <td>
-      <p>2022</p>
+      <p>Top</p>
       <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis 2022" width="400">
     </td>
     <td>
-      <p>2023</p>
+      <p>Bottom 5</p>
       <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/bottom%205%20drugs.png" alt="Customer Analysis 2023" width="400">
     </td>
   </tr>
   </tbody>
 </table>
 
+- The top five selling drugs each generate over $3 million in revenue.
+- The combined revenue of the bottom five drugs is only $2.36 million, which is less than the revenue of any individual drug on the top five list.
+- All of the top five drugs have a high profit margin, exceeding 80%. Conversely, the bottom five drugs exhibit low profit margins, with Montelukast having the lowest at 8.34%. Notably, Prednisone has a profit margin of 77.85%.
+
+---
+  
 ### Customer Performance
 
 - **Top Customer** Alice Smith emerged as the top customer in terms of high profits contributing to a profit of `344.18` thousand with profit margin of `87.95%`. Although Alice is the top customer, her profits and revenue are only saturated between may and august with a sharp decline in setember having onlt $313.06 in revenue  in september whicjh is low compared tho her top month of july with 108134.08 in july. The drug that has commonly been bought by Alice is Doxycycline which wa 59.85 k of her revenue.
