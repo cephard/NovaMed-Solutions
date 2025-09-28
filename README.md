@@ -206,7 +206,7 @@ On average, February consistently records the lowest profit and revenue, experie
 
 ### Location
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/rev%20by%20country.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20country.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
 </p>
 
 On the map, dark blue represents the highest value, yellow mid-value, and light blue the lowest value. 
@@ -231,9 +231,14 @@ In canada the higher chance a customer to buy a drug is if they are a customer t
   </tbody>
 </table>
 
+- The buying habits of different age groups show distinct patterns. While frequent buyers are consistently represented across all age groups, preferred customers and new customers tend to skew toward seniors. 
+- Notably, only 19.76% of seniors are classified as frequent buyers, which contrasts with other age groups. 
+- Generation X has the highest percentage of frequent buyers at 42.28%, and this group exhibits an even distribution of genders.
+ - Millennials also show a strong tendency to make repeat purchases, with 38.02% being frequent buyers. In comparison, 34.92% of Generation Z buyers are frequent purchasers.
+
 ### Gender
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20gender.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20gender.png" alt="Customer Analysis"  style="width:800px; height:200px; display:block; margin:auto;"/>
 </p>
 
 - The data encompasses three gender categories: Male, Female, and Other. Among individuals in the "Other" category, 48.22% are new customers, with a significant number located in Canada.
