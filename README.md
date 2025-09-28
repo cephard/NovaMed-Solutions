@@ -15,19 +15,13 @@ Since its inception in 2022, the company has gathered comprehensive sales data, 
 ---
 ## Key Insights
 Insights and recommendations are provided on the following key areas:
-- ✅ **Top/Bottom Analysis:** This involves tracking overall sales metrics, including revenue, profit, and cost of goods sold (COGS).
-- ✅ **Month-over-Month Comparison:** An analysis comparing the performance of drugs in terms of revenue and profit with the previous month.
-- ✅ **Customer Analysis:** An assessment of how customer segments, such as age group, purchasing category, and gender, influence revenue, profit, and sales.
-- ✅ **Geographical Analysis:** An examination of the key revenue sources based on customers' geographical locations, including countries.
+- ✅ **Top/Bottom Analysis:** This involves tracking overall sales metrics, including revenue, profit, and cost of goods sold (COGS).  
+- ✅ **Month-over-Month Comparison:** An analysis comparing the performance of drugs in terms of revenue and profit with the previous month.  
+- ✅ **Customer Analysis:** An assessment of how customer segments, such as age group, purchasing category, and gender, influence revenue, profit, and sales.  
+- ✅ **Geographical Analysis:** An examination of the key revenue sources based on customers' geographical locations, including countries.  
 
 📊 **Interactive Dashboard**  
 👉 [Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)
-
----
-
-<iframe title="NovaMed Solutions" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTJmZDFmMTItMDc4Ni00YTQxLWFhMTAtYzZlZDc2ZWQ3MTJkIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-
 
 # Data Structure & Initial Checks  
 
@@ -41,9 +35,10 @@ A description of each table is as follows:
 - **Calendar Dim** - Contains a calender custom made to comform with the periods novamed has been in business, includes `Year`, `Month Name`, `Date Month Number` which is essential for the line chart month over month analysis.
   
 ## Entity Relationship Diagram  
+- The model is a `star model` with the fact table at the centre, with connections to the dim tables using their primary keys to create a relationship.
+- All the dim tables are a `1-to-many` relationship with the fact table.
 
 ![Entity Relationship Diagram](https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Entity%20Reletion%20Diagram.png)
-
 ---
 
 ## Data Cleaning & Transformation  
@@ -62,10 +57,19 @@ The data cleaning and transformation process included:
 ---
 
 # Executive Summary
+The profit margin has been high, averaging 81.97%.In 2023, revenue peaked at $5.80 million in July, while revenues for other years never reached $1 million in any month. The combined revenue of the bottom five drugs is less than the revenue of any individual drug on the top five list. Top-selling drugs such as Doxycycline and Ezetimibe have individual revenues exceeding $3 million. Canada and Australia contribute the largest share of revenue, with the majority of customers being seniors. Although most of the drugs were purchased directly by end users, the sellers' revenue was 7.4 times greater than the revenue from end users. 
+
+
+
+
+
+
+
+
+
 
 ### Overview of Findings
 
-Overall, the profit margin has been very high, averaging `82.06%` from 2022 to the current year. In 2023, revenue peaked at `39.26` million dollars, while revenues in recent years, such as 2025, barely hit the 1 million mark, totaling `914.52` thousand dollars. Out of the `10,000` total goods sold, `Lisnopril` accounted for `67.96%` of the total sales. However, `Doxycycline` emerged as the top drug for profit and revenue, generating `2.2` million dollars in profit and `2.3` million dollars in revenue, with `Lisnopril` as the runner-up at 2.1 million dollars in revenue and 1.9 million dollars in profit. Underperforming drugs, including amoxicillin, fluticasone, warfarin, hydrochlorothiazide, and montelukast, ranged between 18.77 thousand dollars for the lowest and 82.59 thousand dollars.
 
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report.  
 
