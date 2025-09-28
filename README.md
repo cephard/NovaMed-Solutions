@@ -264,6 +264,10 @@ In canada the higher chance a customer to buy a drug is if they are a customer t
 <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20country%20and%20gender.png"  style="width:800px; display:block; margin:auto;"/>
 </p>
 
+- Canada drives nearly half of the total $71.31M revenue, with males contributing the largest share. Female and other genders are almost tied, contributing $7.75M and $7.73M respectively.
+- MAustralia ranks second in revenue, generating about a quarter of the total revenue. The majority of this comes from female and male genders.
+- Germany is the third-highest in revenue, producing about half of Australia’s total and a quarter of Canada’s. In Germany, females contribute the most, followed by other genders, and then males.
+  
 ---
 
 ## Strategic Recommendations for NovaMed Solutions  
