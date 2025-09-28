@@ -23,7 +23,7 @@ Insights and recommendations are provided on the following key areas:
 📊 **Interactive Dashboard**  
 👉 [Download NovaMed Solutions.pbix](https://github.com/cephard/NovaMed-Solutions/raw/main/NovaMed%20Solutions.pbix)
 
-# Data Structure & Initial Checks  
+## Data Structure & Initial Checks  
 
 NovaMed-Solutions main database structure as seen below consists of four tables: `Sales Fact Table`, `Customer Dim`, `Drug Lookup Dim`, and `Calendar Dim`, with the fact table housing a total row count of **1,826 records**.  
 
@@ -55,13 +55,12 @@ The data cleaning and transformation process included:
 
 ---
 
-# Executive Summary
+## Executive Summary
 The profit margin has remained high, averaging 81.97% over the years.In 2023, revenue peaked at $61.68 million, while revenues for subsequent years, such as 2025, only reached $2.88 million.Doxycycline was the highest-selling drug, generating a revenue of $3.53 million and a profit of $3.36 million, resulting in a profit margin of 95.10%. Other top-selling drugs included Ergocalciferol, Lisinopril, Clonazepam, and Ezetimibe, each making over $3 million in revenue individually.The bottom five underperforming drugs barely reached $1 million in revenue, with Metformin having the highest at $ 607.27 thousand and Warfarin having the lowest at $229.25 thousand. The majority of the bottom five drugs exhibited low profit margins below 35%, with only Prednisone achieving a profit margin of 77.85%.
 
 ---
 
-### Overview of Findings
-
+## Overview of Findings
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report.  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align="center">
@@ -81,7 +80,7 @@ Below is the overview page from the Power BI dashboard. More examples are includ
 
 ---
 
-### Methodology
+## Methodology
 **NovaMed Solutions: Sales Performance Analysis & Reporting**
 
 The SWOT framework (Strengths, Weaknesses, Opportunities, and Threats) has been utilized to evaluate the sales performance of NovaMed Solutions.
@@ -104,7 +103,7 @@ External risks include rising costs of raw materials (COGS), declining selling p
 
 ---
 
-# Insights Deep Dive
+## Insights Deep Dive
 
 ### Month-over-month comparison
 On average, February consistently records the lowest profit and revenue, experiencing a steep -93.33% decline from January. Sales generally recover gradually from March, peaking around May, and remain relatively stable throughout the rest of the year, with only a slight dip in August.
@@ -252,7 +251,7 @@ In canada the higher chance a customer to buy a drug is if they are a customer t
 
 ---
 
-# Strategic Recommendations for NovaMed Solutions  
+## Strategic Recommendations for NovaMed Solutions  
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
 
@@ -286,17 +285,17 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 - Implement customer engagement tools, such as developing a mobile app or creating email campaigns informed by demographic insights.
 - Enhance e-commerce personalization by recommending products based on customers' purchase history, following best practices from leading retail platforms.
   
-# Assumptions and Caveats
+## Assumptions and Caveats
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-## Assumptions
+### Assumptions
 This analysis accepted an assumption that: 
 - The extremely high sales in 2023 are likely due to a partnership with another supplier, boosting revenue.
 - The conflicting relationship between CustomerID and Buyer Type (User or Seller) in the Fact table indicates how customers acquired the medicine. This is to maintain normalisation and prevent any ambiguity regarding transitive dependency, as it is essential to store Buyer Type as an attribute in the Customer table, as it is an inherent characteristic of the customer.
 - Duplicate SalesID entries had unique values in other columns, indicating a possible data entry error. An indexed SalesID column was created as a primary key for the Fact table.
 
-## Caveats
+### Caveats
 -  The Buyer Type in the Fact table may not fully represent customer behaviour due to normalisation issues. Therefore, insights derived from this field should be interpreted with caution.
 -  The dataset does not account for market dynamics, supply chain disruptions, competitor actions, or regulatory changes, all of which could impact actual sales and profitability trends.
 
