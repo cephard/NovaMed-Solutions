@@ -1,4 +1,4 @@
-<img width="3065" height="211" alt="image" src="https://github.com/user-attachments/assets/84986771-0d4b-4194-9415-8797f7a0e25b" /><img width="3091" height="216" alt="image" src="https://github.com/user-attachments/assets/86a0fead-ca27-4256-b375-57bd05169c9c" /><img width="4143" height="254" alt="image" src="https://github.com/user-attachments/assets/6388ea0b-53d5-4822-afe4-b81a3e2d9c21" /><img width="3227" height="402" alt="image" src="https://github.com/user-attachments/assets/a08d80be-ce08-41c6-8e31-39e1e838b8f6" /># NovaMed-Solutions
+# NovaMed-Solutions
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Power Query](https://img.shields.io/badge/Tool-Power%20Query-brightgreen)
 ![Power BI Service](https://img.shields.io/badge/Platform-Power%20BI%20Service-blue?logo=powerbi)
