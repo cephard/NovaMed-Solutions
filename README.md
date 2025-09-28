@@ -167,7 +167,7 @@ On average, February consistently records the lowest profit and revenue, experie
   <tbody>
    <tr>
     <td>
-      <p>Top</p>
+      <p>Top 5 </p>
       <img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/top%205%20drugs.png" alt="Customer Analysis 2022" width="400">
     </td>
     <td>
@@ -187,7 +187,7 @@ On average, February consistently records the lowest profit and revenue, experie
 ## Customer Performance & Demographics
 ### Top 5 Customers
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis" style="width:800px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/customer-performance.png" alt="Customer Analysis" style="width:400px; display:block; margin:auto;"/>
 </p>
 
 - **Top Customer** Alice Smith emerged as the top customer in terms of high profits contributing to a profit of `344.18` thousand with profit margin of `87.95%`. Although Alice is the top customer, her profits and revenue are only saturated between may and august with a sharp decline in setember having onlt $313.06 in revenue  in september whicjh is low compared tho her top month of july with 108134.08 in july. The drug that has commonly been bought by Alice is Doxycycline which wa 59.85 k of her revenue.
@@ -197,7 +197,7 @@ On average, February consistently records the lowest profit and revenue, experie
   
 ### Customer Type
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Quanityt%20by%20Buyer%20Type.png" alt="Customer Analysis" style="width:800px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Quanityt%20by%20Buyer%20Type.png" alt="Customer Analysis" style="width:400px; display:block; margin:auto;"/>
 </p>
 
 - The majority of customers, in terms of quantity sold, were direct end users.
@@ -206,7 +206,7 @@ On average, February consistently records the lowest profit and revenue, experie
 
 ### Location
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20country.png" alt="Customer Analysis"  style="width:800px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20country.png" alt="Customer Analysis"  style="width:400px; display:block; margin:auto;"/>
 </p>
 
 On the map, dark blue represents the highest value, yellow mid-value, and light blue the lowest value. 
@@ -238,7 +238,7 @@ In canada the higher chance a customer to buy a drug is if they are a customer t
 
 ### Gender
 <p align="center">
-<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20gender.png" alt="Customer Analysis"  style="width:800px; height:200px; display:block; margin:auto;"/>
+<img src="https://github.com/cephard/NovaMed-Solutions/blob/main/Images/Revenue%20by%20gender.png" alt="Customer Analysis"  style="width:400px; display:block; margin:auto;"/>
 </p>
 
 - The data encompasses three gender categories: Male, Female, and Other. Among individuals in the "Other" category, 48.22% are new customers, with a significant number located in Canada.
@@ -290,13 +290,13 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-##Assumptions
+## Assumptions
 This analysis accepted an assumption that: 
 - The extremely high sales in 2023 are likely due to a partnership with another supplier, boosting revenue.
 - The conflicting relationship between CustomerID and Buyer Type (User or Seller) in the Fact table indicates how customers acquired the medicine. This is to maintain normalisation and prevent any ambiguity regarding transitive dependency, as it is essential to store Buyer Type as an attribute in the Customer table, as it is an inherent characteristic of the customer.
 - Duplicate SalesID entries had unique values in other columns, indicating a possible data entry error. An indexed SalesID column was created as a primary key for the Fact table.
 
-##Caveats
+## Caveats
 -  The Buyer Type in the Fact table may not fully represent customer behaviour due to normalisation issues. Therefore, insights derived from this field should be interpreted with caution.
 -  The dataset does not account for market dynamics, supply chain disruptions, competitor actions, or regulatory changes, all of which could impact actual sales and profitability trends.
 
